@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/avatars/306076515001696280/a_b8f6bc292c898ce824b6dd50d95d61ab.gif?size=1024"  />
+<img align="right" height="150" src="https://cdn.discordapp.com/avatars/306076515001696280/a_b8f6bc292c898ce824b6dd50d95d61ab.gif"  />
 
 ###
 
@@ -37,6 +37,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DiaboloVVV/DiaboloVVV/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DiaboloVVV/DiaboloVVV/master/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
